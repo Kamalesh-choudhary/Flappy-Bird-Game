@@ -25,5 +25,4 @@ A fun and interactive Flappy Bird clone built using **HTML**, **CSS**, and **Jav
 
 ---
 
-## Folder Structure
 
