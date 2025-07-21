@@ -32,14 +32,14 @@ document.addEventListener('keydown', (e) => {
     }
 
     if ((e.key === 'ArrowUp' || e.key === ' ') && game_state === 'Play') {
-        img.src = 'bird2.png';
+        img.src = 'assets/bird2.png';
         bird_dy = -7.6;
     }
 });
 
 document.addEventListener('keyup', (e) => {
     if ((e.key === 'ArrowUp' || e.key === ' ') && game_state === 'Play') {
-        img.src = 'bird1.png';
+        img.src = 'assets/bird1.png';
     }
 });
 
